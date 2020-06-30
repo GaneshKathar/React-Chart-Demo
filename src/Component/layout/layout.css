@@ -1,0 +1,14 @@
+.layoutWrapper{
+    margin: 100px auto;
+    width: 80%;
+    height: 800px;
+}
+
+.childWrapper{
+    margin-top: 50px;
+}
+
+.childNameWrapper{
+    margin: 20px auto;
+    text-align: center;
+}
