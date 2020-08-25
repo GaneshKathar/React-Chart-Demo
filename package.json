@@ -10,7 +10,7 @@
     "chart.js": "2.9.3",
     "chartjs-plugin-streaming": "1.8.0",
     "chartjs-plugin-zoom": "^0.7.7",
-    "highcharts": "8.1.0",
+    "highcharts": "8.1.1",
     "highcharts-react-official": "3.0.0",
     "leaflet": "^1.6.0",
     "lodash": "^4.17.15",
